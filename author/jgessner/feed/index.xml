@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jgessner &#8211; Electric Company Cars</title>
+	<atom:link href="/author/jgessner/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The cost for the employee</description>
+	<lastBuildDate>Mon, 04 Sep 2023 13:49:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>The cost of an electric company car</title>
+		<link>/2023/09/04/the-cost-of-an-electric-company-car/</link>
+					<comments>/2023/09/04/the-cost-of-an-electric-company-car/#respond</comments>
+		
+		<dc:creator><![CDATA[jgessner]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2023 13:49:31 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">/?p=14</guid>
+
+					<description><![CDATA[A number of factors determines how much money your company car will cost. Have you considered all of them? Especially when comparing Battery Electric Vehicles (BEVs) with cars with an internal combustion engine, the following factors can tip the balance in favor of the BEV: You are uncertain how to incorporate these factors to arrive]]></description>
+										<content:encoded><![CDATA[
+<p>A number of factors determines how much money your company car will cost. Have you considered all of them? </p>
+
+
+
+<p>Especially when comparing Battery Electric Vehicles (BEVs) with cars with an internal combustion engine, the following factors can tip the balance in favor of the BEV: </p>
+
+
+
+<ul>
+<li>Environmental bonuses paid by the government, the manufacturer or by our company. </li>
+
+
+
+<li>The 0.25 % instead of 1 % rule [ELABORATE]</li>
+</ul>
+
+
+
+<p>You are uncertain how to incorporate these factors to arrive at an estimated monthly cost for your company car? We&#8217;ve got you covered! </p>
+
+
+
+<p>Feel free to check out some exemplary caclulations on our <a href="https://idp.uni-mannheim.de/idp/profile/SAML2/Redirect/SSO?execution=e1s1">company website</a>, a <a href="https://www.handelsblatt.com/firmenwagenrechner/">tool</a> that allows you to calculate an estimated monthly cost for your next company car, or reach out to the team at XXX Car Fleet. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/09/04/the-cost-of-an-electric-company-car/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
